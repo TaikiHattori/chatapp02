@@ -18,3 +18,4 @@ firebaseとjsのみによるログイン認証。
 次回は、それらも視野に入れて作っていこうと思う。
 
 https://taikihattori.github.io/chatapp02/chatapp02_login.html
+https://taikihattori.github.io/chatapp02/chatapp02_home.html
