@@ -20,3 +20,4 @@ firebaseとjsのみによるログイン認証。
 https://taikihattori.github.io/chatapp02/chatapp02_login.html
 https://taikihattori.github.io/chatapp02/chatapp02_home.html
 https://taikihattori.github.io/chatapp02/chatapp02_toukou.html
+https://taikihattori.github.io/chatapp02/chatapp02_profile.html
