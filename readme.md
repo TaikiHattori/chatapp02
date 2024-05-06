@@ -16,3 +16,5 @@ firebaseとjsのみによるログイン認証。
 というのも、検索結果にこれらを用いた方法が多く出てきて、
 それらを避けるように、解決策を探したが、遠回りをしているような感覚になってきた。
 次回は、それらも視野に入れて作っていこうと思う。
+
+https://taikihattori.github.io/chatapp02/chatapp02_login.html
